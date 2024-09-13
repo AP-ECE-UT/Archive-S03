@@ -1,0 +1,5 @@
+POST login ? id 0 password UT_account
+POST course_offer ? course_id a professor_id 810201475 capacity 70 time Sunday:3-5 exam_date 1403/4/4 class_number 2
+POST course_offer ? course_id 1 professor_id a capacity 70 time Sunday:3-5 exam_date 1403/4/4 class_number 2
+POST course_offer ? course_id 1 professor_id 810201475 capacity a time Sunday:3-5 exam_date 1403/4/4 class_number 2
+POST course_offer ? course_id 1 professor_id 810201475 capacity 70 time Sunday:3-5 exam_date 1403/4/4 class_number a

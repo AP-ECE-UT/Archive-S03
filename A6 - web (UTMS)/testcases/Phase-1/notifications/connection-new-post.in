@@ -1,0 +1,14 @@
+POST login ? id 810101551 password hehe
+POST connect ? id 810101463
+POST post ? title "Something hehe posted" message "here's to be as inoccent as you"
+POST logout ?
+POST login ? id 0 password UT_account
+POST post ? title "Something UT_account posted" message "salam be hamegi"
+POST logout ?
+POST login ? password thePhotographer id 810101463
+GET notification ?
+GET notification ?
+POST post ? title "SOMETHING I POSTED YOU GET IT?" message "actually less than title lol"
+POST logout ?
+POST login ? id 810101551 password hehe
+GET notification ?

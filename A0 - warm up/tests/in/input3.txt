@@ -1,0 +1,14 @@
+10 3
+g1 Tehran Sari 10:27 10
+g2 Sari Tehran 23:46 10
+g3 Tehran Mashhad 05:00 1
+g4 Mashhad Tehran 10:00 1
+g5 Karaj Semnan 02:00 10
+g6 Tabriz Booshehr 16:34 1
+g7 Tehran Sari 10:47 5
+g8 Tabriz Booshehr 10:00 10
+g9 Mashhad Tehran 12:01 10
+g10 Tabriz Booshehr 23:50 1
+Tehran Sari 00:00 1
+Karaj Semnan 00:00 1
+Tabriz Booshehr 00:00 1

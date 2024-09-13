@@ -1,0 +1,11 @@
+00:00 Car 1: Arrived -> Stage 1
+00:00 Car 2: Arrived -> Stage 1
+02:00 Car 1: Stage 1 -> Stage 2
+In service: 2
+In service: 1
+03:00 Car 2: Stage 1 -> Done
+In service: 2
+Done
+04:00 Car 1: Stage 2 -> Done
+Done
+Done

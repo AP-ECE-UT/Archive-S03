@@ -1,0 +1,4 @@
+POST login ? id 810101551 password hehe
+POST post ? title "a" message "aaa"
+DELETE post ?
+DELETE post ? blabla albalb

@@ -1,0 +1,6 @@
+POST login ? id 810101551 password hehe
+POST post ? title "a" message "aaa"
+POST post ? title "b" message "bbb"
+POST post ? title "c" message "ccc"
+GET post ? id 810101551 post_id a
+GET post ? id 810101551

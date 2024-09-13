@@ -1,0 +1,16 @@
+POST login ? id 0 password UT_account
+POST course_offer ? course_id 1 professor_id 810201475 capacity 60 time Saturday:14-16 exam_date 1403/4/3 class_number 5
+POST course_offer ? course_id 7 professor_id 810201475 capacity 80 time Monday:13-15 exam_date 1403/4/6 class_number 7
+POST logout ?
+POST login ? id 810201475 password ry
+POST post ? title "start" message "hey"
+POST ta_form ? course_id 1 message "need TA for AP"
+POST ta_form ? course_id 2 message "need TA for compiler"
+POST logout ?
+POST login ? id 810101551 password hehe
+POST ta_request ? professor_id 810201475 form_id 2
+POST ta_request ? professor_id 810201475 form_id 3
+POST logout ?
+POST login ? id 810101456 password blabla
+POST ta_request ? professor_id 10 form_id 3
+POST ta_request ? professor_id 810201475 form_id 3

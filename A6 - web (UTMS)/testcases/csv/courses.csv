@@ -1,0 +1,11 @@
+cid,name,credit,prerequisite,majors_id
+1,Advanced Programming,3,2,1;2
+2,claculus1,3,1,1;2;3;4;5;6
+3,dif,3,1,1;2;3;4;5;6;7
+4,FLAT,3,4,1
+5,geometry,4,5,7
+6,machine,2,7,2
+7,compiler,3,6,1
+8,statistics,3,3,3
+9,statics,3,3,4;3
+10,chemistry,4,4,4;6

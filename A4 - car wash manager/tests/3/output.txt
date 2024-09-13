@@ -1,0 +1,39 @@
+00:00 Car 1: Arrived -> Stage 1
+00:00 Car 2: Arrived -> Stage 2
+00:00 Car 3: Arrived -> Stage 2
+00:00 Car 4: Arrived -> Stage 1
+00:00 Car 5: Arrived -> Queue 1
+02:00 Car 1: Stage 1 -> Stage 2
+02:00 Car 2: Stage 2 -> Queue 1
+02:00 Car 5: Queue 1 -> Stage 1
+Number of washed cars: 1
+Number of cars in queue: 1
+Number of cars being washed: 2
+income: 15
+Number of washed cars: 1
+Number of cars in queue: 0
+Number of cars being washed: 2
+income: 18
+Working: 4
+Working: 5
+Working: 3
+Working: 1
+03:00 Car 2: Queue 1 -> Stage 1
+03:00 Car 3: Stage 2 -> Done
+03:00 Car 4: Stage 1 -> Done
+04:00 Car 1: Stage 2 -> Done
+04:00 Car 5: Stage 1 -> Stage 2
+06:00 Car 2: Stage 1 -> Done
+06:00 Car 5: Stage 2 -> Done
+Number of washed cars: 4
+Number of cars in queue: 0
+Number of cars being washed: 0
+income: 60
+Number of washed cars: 4
+Number of cars in queue: 0
+Number of cars being washed: 0
+income: 72
+Idle
+Idle
+Idle
+Idle

@@ -1,0 +1,12 @@
+car_arrival 1 2
+car_arrival 1 
+pass_time 2
+get_car_status 1
+get_car_status 2
+pass_time 1
+get_car_status 1
+get_car_status 2
+pass_time 2
+get_car_status 1
+get_car_status 2
+

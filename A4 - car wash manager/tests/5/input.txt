@@ -1,0 +1,13 @@
+car_arrival 1 2
+car_arrival 1 
+pass_time 3
+get_worker_status 1
+get_worker_status 2
+get_worker_status 3
+get_worker_status 4
+pass_time 11
+get_worker_status 1
+get_worker_status 2
+get_worker_status 3
+get_worker_status 4
+

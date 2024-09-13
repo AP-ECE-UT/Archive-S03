@@ -1,0 +1,12 @@
+POST login ? id 0 password UT_account
+POST course_offer ? course_id 1 professor_id 810201475 capacity 60 time Saturday:14-16 exam_date 1403/4/3 class_number 5
+POST logout ?
+POST login ? id 810201475 password ry
+POST post ? title "hi" message "hello"
+POST post ? title "HW1" message "deadline: 2 days"
+POST course_post ? id 1 title "next session" message "canceled"
+POST logout ?
+POST login ? id 810101551 password hehe
+GET personal_page ? id 810201475
+PUT my_courses ? id 1
+GET course_channel ? id 1

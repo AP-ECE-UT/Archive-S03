@@ -1,0 +1,6 @@
+car_arrival 1 2
+car_arrival 2 1
+car_arrival 2
+car_arrival 1
+car_arrival 1 2
+pass_time 10

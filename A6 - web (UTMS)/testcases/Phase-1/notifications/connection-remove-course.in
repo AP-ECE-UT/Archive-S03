@@ -1,0 +1,10 @@
+POST login ? id 0 password UT_account
+POST course_offer ? course_id 1 professor_id 810201475 capacity 70 time Sunday:3-5 exam_date 1403/4/4 class_number 2
+POST logout ?
+POST login ? id 810101551 password hehe
+POST connect ? id 810101463
+PUT my_courses ? id 1
+DELETE my_courses ? id 1
+POST logout ?
+POST login ? password thePhotographer id 810101463
+GET notification ?

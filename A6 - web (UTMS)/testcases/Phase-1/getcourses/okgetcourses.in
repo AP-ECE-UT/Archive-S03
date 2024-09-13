@@ -1,0 +1,8 @@
+POST login ? id 0 password UT_account
+POST course_offer ? course_id 1 professor_id 810201475 capacity 70 time Sunday:3-5 exam_date 1403/4/4 class_number 2
+POST course_offer ? course_id 4 professor_id 810201475 capacity 50 time Sunday:10-12 exam_date 1403/4/20 class_number 3
+POST logout ?
+POST login ? id 810101551 password hehe
+GET courses ?
+GET courses ? id 1
+GET courses ? id 2

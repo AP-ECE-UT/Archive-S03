@@ -1,0 +1,19 @@
+POST login ? id 0 password UT_account
+POST course_offer ? course_id 1 professor_id 810201475 capacity 60 time Saturday:14-16 exam_date 1403/4/3 class_number 5
+POST course_offer ? course_id 2 professor_id 810203542 capacity 80 time Sunday:14-16 exam_date 1403/4/4 class_number 9
+POST logout ?
+POST login ? id 810101551 password hehe
+PUT my_courses ? id 1
+POST logout ?
+POST login ? id 810101456 password blabla
+POST connect ? id 810201475
+POST logout ?
+POST login ? id 810201475 password ry
+POST course_post ? id 1 title "next session" message "canceled"
+POST post ? title "start" message "hey"
+POST ta_form ? course_id 1 message "need TA for AP"
+POST logout ?
+POST login ? id 810101551 password hehe
+GET course_channel ? id 1
+GET post ? id 810201475 post_id 2
+POST logout ?
